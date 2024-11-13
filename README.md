@@ -508,3 +508,7 @@ Mark Hatfield
 Dorian Sommerfeld
 
 ---
+
+> There’s always free cheese in the mousetrap, baby.
+
+Tom Waits
