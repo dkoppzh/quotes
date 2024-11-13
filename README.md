@@ -508,3 +508,9 @@ Mark Hatfield
 Dorian Sommerfeld
 
 ---
+
+> All that I can advise is not to attempt the impossible.
+
+Mahatma Gandhi
+
+---
