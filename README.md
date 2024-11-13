@@ -508,3 +508,11 @@ Mark Hatfield
 Dorian Sommerfeld
 
 ---
+
+---
+
+> If I’m not back in five minutes, just wait longer.
+
+Ace Ventura
+
+---
