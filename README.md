@@ -508,3 +508,7 @@ Mark Hatfield
 Dorian Sommerfeld
 
 ---
+
+If you dont risk anything, you risk everything
+
+Angela A
