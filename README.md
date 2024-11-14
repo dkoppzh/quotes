@@ -15,8 +15,10 @@ To add to the list of quotes: EDIT
 ## The Quotes
 
 > 
-If you dont risk anything, you risk everything 
+If you dont risk anything, you risk everything
+> 
 Angela
+
 ---
 
 
