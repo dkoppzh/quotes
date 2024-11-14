@@ -14,6 +14,9 @@ To add to the list of quotes: EDIT
 
 ## The Quotes
 
+> Whoever is happy will make others happy too.
+Mark Twain
+---
 
 > Don't be afraid to give up the good to go for the great
 
