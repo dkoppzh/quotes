@@ -14,6 +14,13 @@ To add to the list of quotes: EDIT
 
 ## The Quotes
 
+
+>If you dont risk anything, you risk everything
+
+Angela
+
+---
+
 > Whoever is happy will make others happy too.
 
 Mark Twain
@@ -31,7 +38,6 @@ Richard Saul Wurman
 Kikuyu Proverb
 
 ----
-
 
 > Don't be afraid to give up the good to go for the great
 
@@ -543,5 +549,4 @@ Ace Ventura
 > There’s always free cheese in the mousetrap, baby.
 
 Tom Waits
-
 
