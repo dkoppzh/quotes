@@ -14,6 +14,11 @@ To add to the list of quotes: EDIT
 
 ## The Quotes
 
+> One good thing about music, when it hits you feel no pain.  
+
+Bob Marley
+
+---
 
 >If you dont risk anything, you risk everything
 
