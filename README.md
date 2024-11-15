@@ -92,7 +92,7 @@ Bedouin saying
 
 Helen Hunt Jackson
 
---- I
+--- 
 
 > Fine. Sell out. Get a job. A nice nine to five one. Sit in front of the idiot box all night and watch some stupid sitcom...all the while wondering what it might have been like if you'd hung in there for just one...more...day.
 
@@ -174,7 +174,7 @@ Julin Maloof
 
 > If all mankind were to disappear, the world would regenerate back to the rich state of equilibrium that existed ten thousand years ago. If insects were to vanish, the environment would collapse into chaos.
 
-E\. O. Wilson
+E. O. Wilson
 
 ---
 
