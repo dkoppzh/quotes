@@ -14,6 +14,11 @@ To add to the list of quotes: EDIT
 
 ## The Quotes
 
+> When elephants fight, it is the grass that suffers.
+
+Kikuyu Proverb
+
+----
 
 > Don't be afraid to give up the good to go for the great
 
@@ -508,3 +513,7 @@ Mark Hatfield
 Dorian Sommerfeld
 
 ---
+
+> There’s always free cheese in the mousetrap, baby.
+
+Tom Waits
