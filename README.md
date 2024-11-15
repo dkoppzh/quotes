@@ -20,6 +20,37 @@ Yoda
 
 ---
 
+> One good thing about music, when it hits you feel no pain.  
+
+Bob Marley
+
+---
+
+>If you dont risk anything, you risk everything
+
+Angela
+
+---
+
+> Whoever is happy will make others happy too.
+
+Mark Twain
+
+---
+
+> Everyone spoke of an information overload, but what there was in fact was a non-information overload.
+
+Richard Saul Wurman
+
+---
+
+> When elephants fight, it is the grass that suffers.
+
+Kikuyu Proverb
+
+----
+
+
 > Don't be afraid to give up the good to go for the great
 
 John D. Rockefeller
@@ -513,3 +544,21 @@ Mark Hatfield
 Dorian Sommerfeld
 
 ---
+
+> All that I can advise is not to attempt the impossible.
+
+Mahatma Gandhi
+
+---
+=======
+
+> If I’m not back in five minutes, just wait longer.
+
+Ace Ventura
+
+---
+
+> There’s always free cheese in the mousetrap, baby.
+
+Tom Waits
+
