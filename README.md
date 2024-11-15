@@ -514,14 +514,21 @@ Dorian Sommerfeld
 
 ---
 
+> All that I can advise is not to attempt the impossible.
+
+Mahatma Gandhi
+
+---
+=======
 
 > If I’m not back in five minutes, just wait longer.
 
 Ace Ventura
 
 ---
-=======
+
 > There’s always free cheese in the mousetrap, baby.
 
 Tom Waits
+
 
