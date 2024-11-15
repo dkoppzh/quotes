@@ -14,13 +14,30 @@ To add to the list of quotes: EDIT
 
 ## The Quotes
 
-> 
-If you dont risk anything, you risk everything
-> 
+
+>If you dont risk anything, you risk everything
+
 Angela
 
 ---
 
+> Whoever is happy will make others happy too.
+
+Mark Twain
+
+---
+
+> Everyone spoke of an information overload, but what there was in fact was a non-information overload.
+
+Richard Saul Wurman
+
+---
+
+> When elephants fight, it is the grass that suffers.
+
+Kikuyu Proverb
+
+----
 
 > Don't be afraid to give up the good to go for the great
 
@@ -516,6 +533,20 @@ Dorian Sommerfeld
 
 ---
 
-If you dont risk anything, you risk everything. 
+> All that I can advise is not to attempt the impossible.
 
-Angela
+Mahatma Gandhi
+
+---
+=======
+
+> If I’m not back in five minutes, just wait longer.
+
+Ace Ventura
+
+---
+
+> There’s always free cheese in the mousetrap, baby.
+
+Tom Waits
+
