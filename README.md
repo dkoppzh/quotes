@@ -389,6 +389,12 @@ Will Smith
 
 ---
 
+
+> In God We Trust, All Others Must Bring Data
+
+William E. Deming
+
+---
 > Every man's life ends the same way. It is only the details of how he lived and how he died that distinguish one man from another.
 
 Ernest Hemingway
@@ -561,4 +567,5 @@ Ace Ventura
 > There’s always free cheese in the mousetrap, baby.
 
 Tom Waits
+
 
