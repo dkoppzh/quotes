@@ -14,6 +14,11 @@ To add to the list of quotes: EDIT
 
 ## The Quotes
 
+> Whoever is happy will make others happy too.
+
+Mark Twain
+
+---
 
 > Everyone spoke of an information overload, but what there was in fact was a non-information overload.
 
